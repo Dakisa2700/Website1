@@ -1,0 +1,19 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  h1 {
+    color: white;
+    font-size: xx-large;
+  }
+  p {
+    color: white;
+    font-size: larger;
+
+  }
+  img {
+    width: 600px;
+    height:300px
+  }
